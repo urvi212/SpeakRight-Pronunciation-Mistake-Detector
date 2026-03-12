@@ -1,4 +1,5 @@
 **Overview**
+
 SpeakRight is an AI-powered pronunciation evaluation system designed to help users improve their English speaking skills. The system analyzes spoken audio, detects pronunciation mistakes, and provides real-time feedback to help learners correct their speech.
 
 The goal of this project is to make pronunciation practice more interactive and accessible using speech processing and AI technologies.
@@ -6,6 +7,7 @@ The goal of this project is to make pronunciation practice more interactive and 
 
 
 **Key Features**
+
 Detects pronunciation mistakes in spoken words or sentences
 
 Provides feedback on incorrect pronunciation
